@@ -1,27 +1,23 @@
+# CHOCOCAM CORRECTION
+Ce repository est la correction faite par les etudiants de worketyamopour repondre au projet CHOCOCAM
 
-# chococam-site
+## Technologies
+* **HTML**
+* **CSS**
 
-Reproiduction de la Landing page de chococam
+## Fonctionalites
+Nous avons juste creer ici une landing page
 
+| **Variale Name** | **Colors** |
+| --title-color:   |  #DFCECE;  |
+|  --bg-color:     |  #3E3232;  |
+|  --text-color:   |  #020202:  |
 
-## Authors
+``` bash
+git clone https://github.com/Ngongnou/readme.git
+cd correction
+```
 
--  [yvanov237](https://www.github.com/Ngongnou)
+#  Contributors 
 
-
-## Tech Stack
-
-HTML et CSS
-
-
-
-
-## Support
-
-For support, email ngongnouyann@gmail.com 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at ngongnouyann@gmail.com
-
+[@Yvanov](https://github.com/Ngongnou)
